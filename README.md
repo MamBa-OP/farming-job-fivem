@@ -7,3 +7,6 @@ A all in one fivem farming job which is specifically designed for qbcore. QBCore
 # Purchase: https://qbcorestore.com/product/farming-job-fivem
 
 
+# Peace ✌ 
+<p>Visitor count</p>
+  <img src="https://profile-counter.glitch.me/farming-job-fivem-replace/count.svg" />
